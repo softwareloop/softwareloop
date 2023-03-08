@@ -16,7 +16,7 @@ solving an engineering problem is part of my job.
 
 My current learning goal is getting a grip on the Rust programming language.
 
-### 🚚 Repos
+### 🚚 My repos
 
 Java:
 
@@ -39,5 +39,5 @@ Alfresco document management (I no longer work with it):
 Some articles I saved from my old blog:
 
 * [The importance of good naming in Java methods - a practical example](http://softwareloop.com/2018/06/09/the-importance-of-good-naming-in-java-methods-a-practical-example/)
-* [Javascript idioms for Java developers](http://softwareloop.com/2015/02/09/javascript-idioms-for-java-developers/)
+* [Javascript idioms for Java developers](https://github.com/softwareloop/softwareloop/blob/main/articles/2015-02-09-javascript-idioms-for-java-developers.md)
 * [Book review - Learning Alfresco Web Scripts](http://softwareloop.com/2014/12/04/book-review-learning-alfresco-web-scripts/)
