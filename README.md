@@ -37,6 +37,6 @@ Alfresco document management (I no longer work with it):
 
 Some articles I saved from my old blog:
 
-* [The importance of good naming in Java methods - a practical example](http://softwareloop.com/2018/06/09/the-importance-of-good-naming-in-java-methods-a-practical-example/)
+* [The importance of good naming in Java methods - a practical example](https://github.com/softwareloop/softwareloop/blob/main/articles/2018-06-09-the-importance-of-good-naming-in-java-methods-a-practical-example.md)
 * [Javascript idioms for Java developers](https://github.com/softwareloop/softwareloop/blob/main/articles/2015-02-09-javascript-idioms-for-java-developers.md)
-* [Book review - Learning Alfresco Web Scripts](http://softwareloop.com/2014/12/04/book-review-learning-alfresco-web-scripts/)
+* [Book review - Learning Alfresco Web Scripts](https://github.com/softwareloop/softwareloop/blob/main/articles/2014-12-04-book-review-learning-alfresco-web-scripts.md)
