@@ -29,7 +29,7 @@ Java:
 
 Alfresco document management:
 
-* [uploader-plus](https://github.com/softwareloop/uploader-plus): an enhanced file uploader that prompts for metadata. My most popular project, developed together with the great Alfresco community (thank you all).
+* [uploader-plus](https://github.com/softwareloop/uploader-plus): an enhanced file uploader that prompts for metadata, developed together with the great Alfresco community (thank you all).
 * [alfresco-inboxes](https://github.com/softwareloop/alfresco-inboxes): an inbox plugin implemented using the Aikau framework
 
 ### 📖 Articles
