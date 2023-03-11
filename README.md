@@ -27,7 +27,7 @@ Java:
 * [contacts-sync](https://github.com/softwareloop/contacts-sync): originally designed as a tool to sync Gmail and LinkedIn contacts, it has become a playground to learn OAuth
 * [tstconfig](https://github.com/softwareloop/tstconfig): a system administration tool for automatic configuration testing.
 
-Alfresco document management (I no longer work with it):
+Alfresco document management:
 
 * [uploader-plus](https://github.com/softwareloop/uploader-plus): an enhanced file uploader that prompts for metadata. My most popular project, developed together with the great Alfresco community (thank you all).
 * [alfresco-inboxes](https://github.com/softwareloop/alfresco-inboxes): an inbox plugin implemented using the Aikau framework
