@@ -11,8 +11,7 @@ I'm fascinated by [Douglas Hoftstadter](https://en.wikipedia.org/wiki/Douglas_Ho
 books and research, including the topic of analogies and analogy-making machines.
 I'm interesting in optimisation and I'm a fond user of [OptaPlanner](https://www.optaplanner.org/).
 
-I like engineering, anything from oil rigs to electric vehicles, and I'm glad when
-solving an engineering problem is part of my job.
+I like engineering, anything from oil rigs to electric vehicles, and computer science applied to engineering problems.
 
 My current learning goal is getting a grip on the Rust programming language.
 
