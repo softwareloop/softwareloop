@@ -23,9 +23,9 @@ Kotlin:
 
 Java:
 
-* [contacts-sync](https://github.com/softwareloop/contacts-sync): originally designed as a tool to sync Gmail and LinkedIn contacts, it has become a playground to learn OAuth
 * [mybatis-generator-lombok-plugin](https://github.com/softwareloop/mybatis-generator-lombok-plugin): a plugin for MyBatis Generator to use Lombok annotations instead of getters and setters
-* [tstconfig](https://github.com/softwareloop/tstconfig): a system administration tool for automatic configuration testing. This is an old idea/project. Today I would use Ansible.
+* [contacts-sync](https://github.com/softwareloop/contacts-sync): originally designed as a tool to sync Gmail and LinkedIn contacts, it has become a playground to learn OAuth
+* [tstconfig](https://github.com/softwareloop/tstconfig): a system administration tool for automatic configuration testing.
 
 Alfresco document management (I no longer work with it):
 
